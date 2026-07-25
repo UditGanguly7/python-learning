@@ -1,0 +1,1 @@
+# Check the type of varaible assigned using input() function. 
