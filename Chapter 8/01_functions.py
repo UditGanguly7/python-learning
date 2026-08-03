@@ -2,30 +2,31 @@
 # b = int(input("Enter your number: "))
 # c = int(input("Enter your number: "))
 
-# average = (a + b + c) / 3
-# print(average)  
+# average = (a + b + c)/3
+# print(average) 
 
-# a = int(input("Enter your number: "))
+# a = int(input("Enter your number: ")) 
 # b = int(input("Enter your number: "))
 # c = int(input("Enter your number: "))
 
-# average = (a + b + c) / 3
-# print(average)  
+# average = (a + b + c)/3
+# print(average) 
 
-# Function Definition   # Test
-def avg():    
+# Function Definition 
+def avg(): 
     a = int(input("Enter your number: ")) 
     b = int(input("Enter your number: "))
     c = int(input("Enter your number: "))
 
-    average = (a + b + c) / 3
-    print(average)
+    average = (a + b + c)/3
+    print(average)     
 
-avg()   # Function Call    
-print("Thankyou!")
+avg()   # Function Call 
+print("Thank you!")
 avg()
-print("Thankyou!")
+print("Thank you!")
 avg()
-print("Thankyou!") 
+print("Thank you!")
 avg()
-avg() 
+print("Thank you!")
+avg()
