@@ -4,4 +4,4 @@ def inch_to_cms(inch):
 
 n = int(input("Enter value in inches: ")) 
 
-print(f"The corresponding value in cms is {inch_to_cms(n)}") 
+print(f"The corresponding value in cms is {inch_to_cms(n)}")          # Test 

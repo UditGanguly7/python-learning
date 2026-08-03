@@ -8,4 +8,4 @@ def pattern(n):
     print("*" * n)
     pattern(n-1)
 
-pattern(3) 
+pattern(3)                  # Test

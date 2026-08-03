@@ -7,4 +7,4 @@ def rem(l, word):
 
 l = ["Harry", "Rohan", "Shubham", "an"]
 
-print(rem(l, "an")) 
+print(rem(l, "an"))    # Test
